@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5621552b-1438-4e6c-94c1-9673467b9c0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nwL5POK9TjkTyNYqKg7ci3fPLQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/flutter_in_action" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5621552b-1438-4e6c-94c1-9673467b9c0c" name="Default Changelist" comment="" />
+      <created>1612296022700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612296022700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612296038230">
+      <screen x="0" y="34" width="1920" height="965" />
+    </state>
+    <state x="410" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.965@0.34.1920.965" timestamp="1612296038229" />
+    <state x="637" y="159" width="636" height="712" key="FileChooserDialogImpl" timestamp="1612296044942">
+      <screen x="0" y="34" width="1920" height="965" />
+    </state>
+    <state x="637" y="159" width="636" height="712" key="FileChooserDialogImpl/0.34.1920.965@0.34.1920.965" timestamp="1612296044942" />
+  </component>
+</project>
