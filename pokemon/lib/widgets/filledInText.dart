@@ -7,14 +7,14 @@ import 'package:flutter/material.dart';
 ///        @fontWeight the fontWeight of the text
 ///        @color the color of the text
 /// Return: Gives back a custom text widget
-Text filledInText(String title, [String family = "roboto", double size = 12.0, FontWeight fontWeight = FontWeight.normal, Color color = Colors.white]){
+Text filledInText(String title, [String family = "roboto", double size = 12.0, FontWeight fontWeight = FontWeight.normal, Color color = Colors.black]){
   return Text(
-        title,
-        style: TextStyle(
-            fontFamily: family,
-            fontSize: size,
-            fontWeight: fontWeight,
-            color: color
-        ),
+    title,
+    style: TextStyle(
+        fontFamily: family,
+        fontSize: size,
+        fontWeight: fontWeight,
+        color: color
+    ),
   );
 }
